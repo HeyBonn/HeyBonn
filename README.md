@@ -4,7 +4,7 @@
 - 🍿 ¡Estoy buscando alguien que me ayude a aprender!
 - 📫 Puedes contactarme en mi discord como hues0s_hd 
 - 🤖 Pronouns: Idk
-- 🎡 Fun fact: Algú día iré a Colombia :D
+- 🎡 Fun fact: Algún día iré a Colombia :D
 
 <!---
 HeyBonn/HeyBonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
