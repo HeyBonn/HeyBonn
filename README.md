@@ -1,7 +1,8 @@
-- 👋 Hi, soy Bones/Huesos
-- ✨ Me interesa el arte y música, además de la ciencia y tegnología, aunque la verdad no se mucho :(( 
+- 👋 Hola lol
+- ✨ Me interesa el arte y la música
+- mi sueño es ser ing de Sistemas Infomraticos, Robotica e Inteligencia Artificial y papearme a Gil 🙏
 - 🤖 Pronouns: they/them
-- 🎡 Fun fact: Algún día iré a Colombia :D
+- 🎡 Fun fact: NO SÉ
 
 <!---
 HeyBonn/HeyBonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
