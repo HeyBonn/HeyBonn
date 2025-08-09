@@ -1,6 +1,6 @@
 - 👋 Hola lol
 - ✨ Me interesa el arte y la música
-- mi sueño es ser ing de Sistemas Infomraticos, Robotica e Inteligencia Artificial y papearme a Gil 🙏
+- mi sueño es ser ing de Sistemas Informaticos, Robotica e Inteligencia Artificial y papearme a Gil 🙏
 - 🤖 Pronouns: they/them
 - 🎡 Fun fact: NO SÉ
 
