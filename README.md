@@ -1,6 +1,6 @@
 - 👋 Hi, soy Bones/Huesos
 - ✨ Me interesa el arte y música, además de la ciencia y tegnología, aunque la verdad no se mucho :(( 
-- 🤖 Pronouns: he/him
+- 🤖 Pronouns: they/them
 - 🎡 Fun fact: Algún día iré a Colombia :D
 
 <!---
