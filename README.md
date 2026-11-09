@@ -22,20 +22,18 @@ Mi defecto es que soy muuuuy perezoso
 
 ### Mis intereses jeje
 
-𓊆 Desarrollo de videojuegos independientes.
-𓊆 Arte digital y diseño.
-𓊆 Música alternativa y nu metal.
-𓊆 Videojuegos de terror y clásicos.
-
-⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝
+- Desarrollo de videojuegos independientes.
+- Arte digital y diseño.
+- Música alternativa y nu metal.
+- Videojuegos de terror y clásicos.
 
 Mis objetivos son convertirme en ingeniero de Sistemas Informáticos,  desarrollar mis propios videojuegos.
 y si DIOS quiere trabajar algún día en Valve (OJALAAA AHHHH).
 
-### 𖥔🛸༄ Currently listening to
+### 🛸 Currently listening to
 
 KoЯn ♬
-⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝
+
 <p align="center">
   <i>"Still learning, still creating."</i>
 </p>
