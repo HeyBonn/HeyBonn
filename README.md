@@ -20,14 +20,7 @@ videojuegos y todo lo relacionado con el arte y la música (esto ultimo más jej
 
 Mi defecto es que soy muuuuy perezoso
 
-### Mis intereses jeje
-
-- Desarrollo de videojuegos independientes.
-- Arte digital y diseño.
-- Música alternativa y nu metal.
-- Videojuegos de terror y clásicos.
-
-Mis objetivos son convertirme en ingeniero de Sistemas Informáticos,  desarrollar mis propios videojuegos.
+Como objetivos quisieraaa convertirme en ingeniero de Sistemas Informáticos,  desarrollar mis propios videojuegos.
 y si DIOS quiere trabajar algún día en Valve (OJALAAA AHHHH).
 
 ### 🛸 Currently listening to
