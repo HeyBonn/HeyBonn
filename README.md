@@ -20,23 +20,22 @@ videojuegos y todo lo relacionado con el arte y la música (esto ultimo más jej
 
 Mi defecto es que soy muuuuy perezoso
 
-### 🎮 Mis intereses
+### Mis intereses jeje
 
-- Desarrollo de videojuegos independientes.
-- Arte digital y diseño.
-- Música alternativa y nu metal.
-- Videojuegos de terror y clásicos.
+𓊆 Desarrollo de videojuegos independientes.
+𓊆 Arte digital y diseño.
+𓊆 Música alternativa y nu metal.
+𓊆 Videojuegos de terror y clásicos.
 
-### 🚀 Mis objetivos
+⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝
 
-- Convertirme en ingeniero de Sistemas Informáticos.
-- Desarrollar mis propios videojuegos.
-- Trabajar algún día en Valve (OJALAAA AHHHH).
+Mis objetivos son convertirme en ingeniero de Sistemas Informáticos,  desarrollar mis propios videojuegos.
+y si DIOS quiere trabajar algún día en Valve (OJALAAA AHHHH).
 
-### 🎧 Currently listening to
+### 𖥔🛸༄ Currently listening to
 
-KoЯn ♬.ᐟ
-════════════════════════════════════════════════════════════════════════
+KoЯn ♬
+⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝
 <p align="center">
   <i>"Still learning, still creating."</i>
 </p>
