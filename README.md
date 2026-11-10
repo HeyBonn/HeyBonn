@@ -28,11 +28,7 @@ y si DIOS quiere trabajar algún día en Valve (OJALAAA AHHHH).
 KoЯn ♬
 
 <p align="center">
-  <i>"Still learning, still creating."</i>
-</p>
-
-<p align="center">
-  <i>"Still learning, still creating."</i>
+  <i>"Peor es no intentarlo."</i>
 </p>
 
 <p align="center">
@@ -40,13 +36,13 @@ KoЯn ♬
 </p>
 
 <p align="center">
-  <img src="https://static2.klipy.com/ii/e7539ef2aad336edaa067c28ee130b3c/15/a8/YWaZxKoSOs1W.gif" width="180" alt="Postal 1997 Plush Spin">
+  <img src="./assets/postal.gif" width="180" alt="Postal 1997">
 </p>
 
 <p align="center">
-  <img src="https://klipy.com/gifs/jonathan-davis-korn-11" width="180" alt="Jonathan Davis - Korn">
+  <img src="./assets/jonathan.gif" width="180" alt="Jonathan Davis - Korn">
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/ugHzBYXgXRZ.gif" width="180" alt="GIF decorativo">
+  <img src="https://media.tenor.com/ugHzBYXgXRZAAAAM/postal-going-postal.gif" width="180" alt="Postal 4">
 </p>
