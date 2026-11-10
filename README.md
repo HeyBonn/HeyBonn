@@ -69,6 +69,6 @@ Como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, des
 
 <!-- PIE DE PAGINA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:241038,50:7026A6,100:B46BDE&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B35C9,40:8B172B,75:301044,100:0D0B10&height=120&section=footer">
 </p>
 
