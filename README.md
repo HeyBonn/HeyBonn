@@ -32,10 +32,12 @@ como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, des
 
 ---
 
-<h3 align="center">🛸 Currently listening to</h3>
+<h3 align="center">
+  <font color="#A855F7">🛸 Currently listening to</font>
+</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Korn_logo.svg" width="130" alt="KoЯn logo">
+  <img src="https://images.weserv.nl/?url=images.seeklogo.com%2Flogo-png%2F52%2F1%2Fkorn-logo-png_seeklogo-520311.png&tint=8B5CF6" width="130" alt="KoЯn logo">
 </p>
 
 <p align="center">
@@ -43,7 +45,7 @@ como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, des
 </p>
 
 <p align="center">
-  <i>"Peor es no intentarlo."</i>
+  <font color="#A855F7"><i>"Peor es no intentarlo."</i></font>
 </p>
 
 ---
