@@ -1,8 +1,6 @@
 
 <!-- ENCABEZADO -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B10,35:301044,70:8B172B,100:8B35C9&height=180&section=header&text=Hey%20There,%20I'm%20Alex/Bone!&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%">
-</p>
+<h1 align="center">Hi There I'm Alex! (username bone)</h1>
 
 <h3 align="center">Aspirante a Game Developer</h3>
 
