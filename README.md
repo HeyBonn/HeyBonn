@@ -1,5 +1,6 @@
 
-<h1 align="center">Hey, I'm Alex! (username bone) 💜</h1>
+
+<h1 align="center">Hi There I'm Alex! (username bone)</h1>
 
 <p align="center">
   <i>Aspirante a Game Developer</i>
@@ -11,25 +12,41 @@
 
 ---
 
-### 👽 Sobre mí | About me
+<h3 align="center">👽 Sobre mí | About me</h3>
 
-Hola pibes, soy un estudiante de Ingeniería en Sistemas
+<table align="center">
+<tr>
+<td width="600">
 
-Me interesa el desarrollo de software, la creación de
-videojuegos y todo lo relacionado con el arte y la música (esto ultimo más jeje).
+Hola pibes, soy un estudiante de Ingeniería en Sistemas.
 
-Mi defecto es que soy muuuuy perezoso
+Me interesa el desarrollo de software, la creación de videojuegos y todo lo relacionado con el arte y la música (esto último más jeje).
 
-Como objetivos quisieraaa convertirme en ingeniero de Sistemas Informáticos,  desarrollar mis propios videojuegos.
-y si DIOS quiere trabajar algún día en Valve (OJALAAA AHHHH).
+Mi defecto es que soy muuuuy perezoso.
 
-### 🛸 Currently listening to
+como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, desarrollar mis propios videojuegos Y si DIOS quiere, trabajar algún día en Valve (OJALAAA AHHHH).
 
-KoЯn ♬
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">🛸 Currently listening to</h3>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Korn_logo.svg" width="130" alt="KoЯn logo">
+</p>
+
+<p align="center">
+  <b>KoЯn ♬</b>
+</p>
 
 <p align="center">
   <i>"Peor es no intentarlo."</i>
 </p>
+
+---
 
 <p align="center">
   <code>going postal</code>
