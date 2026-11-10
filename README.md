@@ -39,7 +39,7 @@ como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, des
 </p>
 
 <p align="center">
-  <b>HELL YEAH  ♬</b>
+  <b>Jon es mi mejor amigo jeje ♬</b>
 </p>
 
 <p align="center">
