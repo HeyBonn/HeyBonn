@@ -7,10 +7,10 @@
 <h3 align="center">Aspirante a Game Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/𖦹-Art-8B35C9?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/𖦹-Music-8B172B?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/𖦹-Programing-301044?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/𖦹-Video_Games-0D0B10?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/꩜ART-9B59B6?style=flat-square">
+  <img src="https://img.shields.io/badge/꩜MUSIC-7026A6?style=flat-square">
+  <img src="https://img.shields.io/badge/꩜PROGRAMMING-512477?style=flat-square">
+  <img src="https://img.shields.io/badge/꩜VIDEO_GAMES-241038?style=flat-square">
 </p>
 
 ---
