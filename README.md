@@ -39,7 +39,7 @@ como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, des
 </p>
 
 <p align="center">
-  <b>KoЯn ⠀♱ ⠀Got the Life ♬</b>
+  <b>HELL YEAH  ♬</b>
 </p>
 
 <p align="center">
