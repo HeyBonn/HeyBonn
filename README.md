@@ -1,13 +1,16 @@
 
-
-<h1 align="center">Hi There I'm Alex! (username bone)</h1>
-
+<!-- ENCABEZADO -->
 <p align="center">
-  <i>Aspirante a Game Developer</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:241038,50:7026A6,100:B46BDE&height=180&section=header&text=Hey%20There,%20I'm%20Alex!&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%">
 </p>
 
+<h3 align="center">Aspirante a Game Developer</h3>
+
 <p align="center">
-  <code>Art ಄ Music ಄ Programming ಄ Video Games</code>
+  <img src="https://img.shields.io/badge/ART-9B59B6?style=flat-square">
+  <img src="https://img.shields.io/badge/MUSIC-7026A6?style=flat-square">
+  <img src="https://img.shields.io/badge/PROGRAMMING-512477?style=flat-square">
+  <img src="https://img.shields.io/badge/VIDEO_GAMES-241038?style=flat-square">
 </p>
 
 ---
@@ -24,7 +27,7 @@ Me interesa el desarrollo de software, la creación de videojuegos y todo lo rel
 
 Mi defecto es que soy muuuuy perezoso.
 
-como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, desarrollar mis propios videojuegos Y si DIOS quiere, trabajar algún día en Valve (OJALAAA AHHHH).
+Como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, desarrollar mis propios videojuegos y, si DIOS quiere, trabajar algún día en Valve (OJALAAA AHHHH).
 
 </td>
 </tr>
@@ -48,6 +51,8 @@ como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, des
 
 ---
 
+<h3 align="center">💜 A little bit of my interests</h3>
+
 <p align="center">
   <code>going postal</code>
 </p>
@@ -59,3 +64,11 @@ como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, des
 
   <img src="https://media1.tenor.com/m/6i5ImiHEWEEAAAAd/postal-going-postal.gif" width="150" alt="Postal 4">
 </p>
+
+---
+
+<!-- PIE DE PAGINA -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:241038,50:7026A6,100:B46BDE&height=100&section=footer">
+</p>
+
