@@ -35,14 +35,17 @@ KoЯn ♬
   <code>going postal</code>
 </p>
 
+<!-- Postal 1997 -->
 <p align="center">
-  <img src="./assets/postal.gif" width="180" alt="Postal 1997">
+  <img src="https://static2.klipy.com/ii/e7539ef2aad336edaa067c28ee130b3c/15/a8/YWaZxKoSOs1W.gif" width="180" alt="Postal 1997">
 </p>
 
+<!-- Jonathan Davis - Korn -->
 <p align="center">
-  <img src="./assets/jonathan.gif" width="180" alt="Jonathan Davis - Korn">
+  <img src="https://static2.klipy.com/ii/2f34308bfc69e8c858753b83566e3ab4/21/f7/RyJ8AXWi0bl35d.gif" width="180" alt="Jonathan Davis - Korn">
 </p>
 
+<!-- Postal 4 -->
 <p align="center">
-  <img src="https://media.tenor.com/ugHzBYXgXRZAAAAM/postal-going-postal.gif" width="180" alt="Postal 4">
+  <img src="https://media1.tenor.com/m/6i5ImiHEWEEAAAAd/postal-going-postal.gif" width="180" alt="Postal 4">
 </p>
