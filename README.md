@@ -51,7 +51,7 @@ Como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, des
 
 ---
 
-<h3 align="center">💜 A little bit of my interests</h3>
+<h3 align="center">🐈‍⬛🐈‍⬛⭐🐈‍⬛🐈‍⬛⭐🐈‍⬛🐈‍⬛</h3>
 
 <p align="center">
   <code>going postal</code>
