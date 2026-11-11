@@ -2,7 +2,7 @@
 <!-- ENCABEZADO -->
 <h1 align="center">Hi There I'm Alex! (username bone)</h1>
 
-<h3 align="center">Aspirante a Game Developer</h3>
+<h3 align="center">Aspirante a Game Developer o Credits Member</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/꩜ART-9B59B6?style=flat-square">
@@ -27,6 +27,8 @@ Mi defecto es que soy muuuuy perezoso.
 
 Como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, desarrollar mis propios videojuegos y, si DIOS quiere, trabajar algún día en Valve (OJALAAA AHHHH).
 
+Aun así, sinceramente, lo daría todo por aparecer en los créditos de un videojuego. No necesito ser el centro de todo, simplemente me encanta imaginar la idea de ver mi nombre ahí, formando parte de un proyecto que otras personas puedan disfrutar. Estoy dispuesto a aprender lo que haga falta para conseguirlo.
+
 </td>
 </tr>
 </table>
@@ -49,7 +51,7 @@ Como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, des
 
 ---
 
-<h3 align="center">🐈‍⬛🐈‍⬛⭐🐈‍⬛🐈‍⬛⭐🐈‍⬛🐈‍⬛</h3>
+<h3 align="center">⡞⠳⣄⣀⣠⠞⢷ ֹ۪𖦹🐈‍⬛🐈‍⬛⭐🐈‍⬛🐈‍⬛⭐🐈‍⬛🐈‍⬛𖦹⡞⠳⣄⣀⣠⠞⢷ ֹ۪</h3>
 
 <p align="center">
   <code>going postal</code>
