@@ -51,7 +51,9 @@ Aun así, sinceramente, lo daría todo por aparecer en los créditos de un video
 
 ---
 
-<h3 align="center">⡞⠳⣄⣀⣠⠞⢷ ֹ۪𖦹🐈‍⬛🎸⭐🐈‍⬛🎸⭐🐈‍⬛🎸𖦹⡞⠳⣄⣀⣠⠞⢷ ֹ۪</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512477,50:8B1744,100:241038&height=3&section=header" width="100%">
+</p>
 
 <p align="center">
   <code>going postal</code>
