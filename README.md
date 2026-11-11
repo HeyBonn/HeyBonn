@@ -23,9 +23,9 @@ Hola pibes, soy un estudiante de Ingeniería en Sistemas.
 
 Me interesa el desarrollo de software, la creación de videojuegos y todo lo relacionado con el arte y la música (esto último más jeje).
 
-Mi defecto es que soy muuuuy perezoso.
+Mi defecto es que soy muuuuy perezoso 🐈‍⬛.
 
-Como objetivos desearía convertirme en ingeniero de Sistemas Informáticos, desarrollar mis propios videojuegos y, si DIOS quiere, trabajar algún día en Valve (OJALAAA AHHHH).
+Entre mis objetivos están convertirme en ingeniero de Sistemas Informáticos, desarrollar mis propios videojuegos o participar en su creación. También me gusta escribir letras de canciones, aunque casi siempre termino quedándome en las primeras versiones. Algún día quisiera hacer mi propia música...
 
 Aun así, sinceramente, lo daría todo por aparecer en los créditos de un videojuego. No necesito ser el centro de todo, simplemente me encanta imaginar la idea de ver mi nombre ahí, formando parte de un proyecto que otras personas puedan disfrutar. Estoy dispuesto a aprender lo que haga falta para conseguirlo.
 
