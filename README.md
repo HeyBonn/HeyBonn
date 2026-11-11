@@ -51,7 +51,7 @@ Aun así, sinceramente, lo daría todo por aparecer en los créditos de un video
 
 ---
 
-<h3 align="center">⡞⠳⣄⣀⣠⠞⢷ ֹ۪𖦹🐈‍⬛🐈‍⬛⭐🐈‍⬛🐈‍⬛⭐🐈‍⬛🐈‍⬛𖦹⡞⠳⣄⣀⣠⠞⢷ ֹ۪</h3>
+<h3 align="center">⡞⠳⣄⣀⣠⠞⢷ ֹ۪𖦹🐈‍⬛🎸⭐🐈‍⬛🎸⭐🐈‍⬛🎸𖦹⡞⠳⣄⣀⣠⠞⢷ ֹ۪</h3>
 
 <p align="center">
   <code>going postal</code>
