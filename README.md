@@ -67,4 +67,7 @@ Aun así, sinceramente, lo daría todo por aparecer en los créditos de un video
   <img src="https://media1.tenor.com/m/6i5ImiHEWEEAAAAd/postal-going-postal.gif" width="150" alt="Postal 4">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B59B6,50:512477,100:241038&height=3&section=header" width="100%">
+</p>
 ---
